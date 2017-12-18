@@ -1,5 +1,9 @@
 # Top500_analysis
 Centralize the top500 data in a uniform way to be able to parse them with scripts (Python and panda in my case)
+<<<<<<< HEAD
+=======
+
+
 
 # Developpement 
 
@@ -7,3 +11,4 @@ Centralize the top500 data in a uniform way to be able to parse them with script
 pip freeze > requirements.txt
 pip install -r requirements.txt
 ```
+>>>>>>> 9c537f4991ef09fae8f4540d43ff9cb32064904b
