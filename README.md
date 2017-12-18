@@ -3,7 +3,7 @@ Centralize the top500 data in a uniform way to be able to parse them with script
 
 
 
-#Developer
+# Developpement 
 
 ```
 pip freeze > requirements.txt
